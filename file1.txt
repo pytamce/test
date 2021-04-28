@@ -2,3 +2,4 @@ Hi
 Martin
 How are you?
 Added test line
+Added line from VSC
